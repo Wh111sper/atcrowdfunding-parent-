@@ -9,5 +9,7 @@ public class Love {
         System.out.println("今天是个好日子");
         System.out.println("6666666");
         System.out.println("zsk到此一游");
+        System.out.println("张佳龙来了");
+        System.out.println("两个傻蛋");
     }
 }
